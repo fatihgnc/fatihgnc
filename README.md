@@ -3,7 +3,7 @@
 - 🔭 I’m generally working on Full Stack projects but nowadays I'm more focused on Frontend development(React.js).
 - 🌱 I’m currently learning Typescript, Docker and Redis.
 - 👯 I’m looking to collaborate on ReactJS or Full Stack projects
-- 🥅 2022 Goals: Contribute more to Open Source projects and learn new tech stack.(Docker, Redis, Firebase and AWS)
+- 🥅 2022 Goals: Contribute more to Open Source projects and learn new tech stack.(Docker, Redis, GraphQL and AWS)
 - ⚡ Fun fact: I waste most of my spare time with gym or video games.
 - 💻 Life Hack: Learn new tech and share what you have learned.
 
