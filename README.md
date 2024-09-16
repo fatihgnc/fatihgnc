@@ -4,7 +4,7 @@ I'm a passionate software engineer with 2.5 years of experience, specializing in
 
 ### 📫 Get in Touch
 Email: fathgnc.dev@gmail.com <br />
-[LinkedIn](https://www.linkedin.com/in/fatih-gen%C3%A7-817512201/)
+LinkedIn: https://www.linkedin.com/in/fatih-gen%C3%A7-817512201/
 
 Thanks for stopping by!
 
